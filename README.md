@@ -92,7 +92,7 @@ The purpose of this step is to create, publish and consume a pipeline using the 
 
 ![](https://github.com/Zahak-Anjum/Operationalizing-ML-using-Microsoft-Azure/blob/main/screen-shots/python%20sdk%20status.PNG)
 ![](https://github.com/Zahak-Anjum/Operationalizing-ML-using-Microsoft-Azure/blob/main/screen-shots/python%20sdk%20azure%20ml%20studio%20run%20completed%20screenshot.PNG)
-![](https://github.com/Zahak-Anjum/Operationalizing-ML-using-Microsoft-Azure/blob/main/screen-shots/pipeline%20run%20active%20status.png)
+![](https://github.com/Zahak-Anjum/Operationalizing-ML-using-Microsoft-Azure/blob/main/screen-shots/active%20status.PNG)
 
 ### Run Widget
 
